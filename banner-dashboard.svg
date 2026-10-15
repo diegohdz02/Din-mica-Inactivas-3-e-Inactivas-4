@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+    <rect width="1200" height="200" fill="#FFF3EC"/>
+    <path d="M900 0H1200V200H700Z" fill="#FFE0CC"/>
+    <g font-family="Segoe UI, Tahoma, sans-serif" text-anchor="middle">
+        <text x="440" y="120" font-size="64" fill="#E85202">natura</text>
+        <text x="600" y="116" font-size="36" fill="#7C2D12">&amp;</text>
+        <text x="770" y="120" font-size="64" letter-spacing="8" fill="#9D174D">AVON</text>
+    </g>
+</svg>
